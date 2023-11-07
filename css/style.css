@@ -1,0 +1,26 @@
+.section {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height:100vh;
+    color:#fff;
+    font-size: 10vw;
+
+}
+
+.section:nth-of-type(1) {
+    background-color: rgb(190, 190, 234);
+}
+.section:nth-of-type(2) {
+    background-color: rgb(123, 185, 156);
+}
+.section:nth-of-type(3) {
+    background-color: rgb(0, 115, 255);
+}
+.section:nth-of-type(4) {
+    background-color: rgb(208, 255, 0);
+}
+.section:nth-of-type(5) {
+    background-color: rgb(245, 195, 13);
+}
